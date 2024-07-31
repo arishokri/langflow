@@ -1,7 +1,7 @@
-/__pychache__
+__pychache__/
 .DS_Store
 *.code-workspace
-/articles
-/logs
-/chroma_dbs
-/.streamlit
+articles/
+logs/
+chroma_dbs/
+secrets.toml
